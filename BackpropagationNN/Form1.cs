@@ -12,7 +12,7 @@ namespace BackpropagationNN
 
         private void button1_Click(object sender, EventArgs e)
         {
-            nn = new NeuralNet(2, 100, 1);
+            nn = new NeuralNet(4, 100, 1);
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -138,8 +138,10 @@ namespace BackpropagationNN
         {
             nn.setInputs(0, Convert.ToDouble(textBox1.Text));
             nn.setInputs(1, Convert.ToDouble(textBox2.Text));
+            nn.setInputs(2, Convert.ToDouble(textBox3.Text));
+            nn.setInputs(3, Convert.ToDouble(textBox4.Text));
             nn.run();
-            textBox3.Text = Convert.ToString(nn.getOuputData(0));
+            textBox5.Text = "" + nn.getOuputData(0);
         }
     }
 }
