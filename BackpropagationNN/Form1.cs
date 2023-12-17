@@ -143,5 +143,25 @@ namespace BackpropagationNN
             nn.run();
             textBox5.Text = "" + nn.getOuputData(0);
         }
+
+        private void openToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            openFileDialog1.ShowDialog();
+        }
+
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            saveFileDialog1.ShowDialog();
+        }
+
+        private void saveFileDialog1_FileOk(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            nn.saveWeights(saveFileDialog1.FileName);
+        }
+
+        private void openFileDialog1_FileOk(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            nn.loadWeights(openFileDialog1.FileName);
+        }
     }
 }

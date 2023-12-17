@@ -14,3 +14,4 @@ D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\ref
 D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\BackpropagationNN.pdb
 D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\BackpropagationNN.genruntimeconfig.cache
 D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\ref\BackpropagationNN.dll
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\BackpropagationNN.Properties.Resources.resources

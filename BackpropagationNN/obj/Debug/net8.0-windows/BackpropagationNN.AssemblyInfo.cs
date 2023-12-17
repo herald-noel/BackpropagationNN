@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackpropagationNN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed5026225f8c033481eaa3a3af42ff07c1fb0863")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackpropagationNN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackpropagationNN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
