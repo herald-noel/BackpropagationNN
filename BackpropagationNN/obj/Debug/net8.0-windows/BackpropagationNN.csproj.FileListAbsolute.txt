@@ -1,0 +1,16 @@
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\bin\Debug\net8.0-windows\BackpropagationNN.exe
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\bin\Debug\net8.0-windows\BackpropagationNN.deps.json
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\bin\Debug\net8.0-windows\BackpropagationNN.runtimeconfig.json
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\bin\Debug\net8.0-windows\BackpropagationNN.dll
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\bin\Debug\net8.0-windows\BackpropagationNN.pdb
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\BackpropagationNN.Form1.resources
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\BackpropagationNN.csproj.GenerateResource.cache
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\BackpropagationNN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\BackpropagationNN.AssemblyInfoInputs.cache
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\BackpropagationNN.AssemblyInfo.cs
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\BackpropagationNN.csproj.CoreCompileInputs.cache
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\BackpropagationNN.dll
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\refint\BackpropagationNN.dll
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\BackpropagationNN.pdb
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\BackpropagationNN.genruntimeconfig.cache
+D:\Code\c-sharp\BackpropagationNN\BackpropagationNN\obj\Debug\net8.0-windows\ref\BackpropagationNN.dll
